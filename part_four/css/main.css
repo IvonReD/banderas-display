@@ -1,0 +1,14 @@
+.box-yellow {
+    display:inline;
+    padding: 10px;
+    margin: 10px;
+    background-color: #e6b800;
+}
+
+.box-black {
+    display:inline;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    background-color: black;
+}

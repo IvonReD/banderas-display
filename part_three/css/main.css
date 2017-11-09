@@ -1,0 +1,16 @@
+.box-yellow {
+    display:inline-block;
+    height: 150px;
+    width: 250px;
+    margin: 10px;
+    background-color: #e6b800;
+}
+
+.box-black {
+    display:inline-block;
+    height: 150px;
+    width: 250px;
+    margin: 10px;
+    color: white;
+    background-color: black;
+}
